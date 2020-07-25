@@ -16,3 +16,12 @@ Menyediakan cadangan atau backup dan juga pemulihannya
 Meningkatkan skalabilitas
 Meningkatkan kapasitas penyimpanan atau storage
 Meningkatkan keamanan data
+Manfaat Cloud Computing
+Dengan peningkatan jumlah pemakaian komputer dan para pengguna seluler, penyimpanan data/data storage telah menjadi prioritas di hampir segala bidang bisnis. Bisnis skala besar ataupun skala kecil saat ini sangat berkembang dengan data sebagai pusatnya. Mereka biasanya menghabiskan sejumlah besar uang demi mempertahankan data yang berharga tersebut.
+Itulah mengapa sangat diperlukan dukungan IT yang kuat dengan pusat penyimpanan yang berperfoma tinggi.
+ Tidak semua bisnis mampu membayar biaya tinggi infrastruktur IT berjenis in-house. Jadi bagi mereka, Cloud Computing ini menjadi solusi yang bagus karena lebih murah. Mungkin juga ada pertimbangan lain dari perusahaan semacam efisiensi dalam menyimpan data, perhitungan, dan biaya pemeliharaan yang lebih sedikit (hal ini akan kami bahas di bagian penjelasan berikutnya).
+Komputasi awan sebenarnya jadi menurunkan permintaan hardware dan software dari sisi si pengguna. Satu-satunya hal yang harus bisa dijalankan/dilakuka oleh si pengguna adalah software interface dari sistem komputasi awan, yang bisa jadi sesederhana saja semacam browser web. 
+Ini pastinya bisa membantu mengurangi pekerjaan pengguna dengan adanya teknonologi jaringan Cloud yang tanggap dan otomatis menyelesaikan masalah-masalah IT lainnya.
+Bila Anda bukan dari pihak korporat/pebisnis, Anda juga sebenarnya sudah menggunakan teknologi komputasi awan. 
+Anda mungkin tidak sadar, beberapa layanan cloud populer yang telah banyak digunakan semacam email tools GMail, Hotmail atau Yahoo bahkan sudah didukung teknologi ini.
+
